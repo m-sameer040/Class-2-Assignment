@@ -1,5 +1,5 @@
  
-export default function about () {
+export default function About () {
     return (
     <div className='m-7'>
         
@@ -10,7 +10,7 @@ export default function about () {
     <ol className='text-2xl m-2'> I styled header in black colour.</ol>
     <ol className='text-2xl m-2'> The main content area is styled by using self-closing tags to import components.</ol>
     <ol className='text-2xl m-2'> The About component is included as the main content.</ol>
-    <ol className='text-2xl m-2'> I also made the footer which inspire's you.</ol>
+    <ol className='text-2xl m-2'> I also made the footer which inspire&apos;s you.</ol>
     
     </div>
 
